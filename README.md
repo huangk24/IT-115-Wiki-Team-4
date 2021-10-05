@@ -2,7 +2,7 @@
 
 Assignment Deliverables:
 
-A Group GitHub repository for the assignment
+A Group GitHub repository for the assignment<br />
 -A multi-page wiki (one page per group member)<br />
 -Must include a Table Of Contents with links to each team member's page<br />
 -must have a home page that states topic of the wiki, as well as a brief summary of the contents and a link to the TOC.<br />
